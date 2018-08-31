@@ -3,6 +3,7 @@
 #include <string.h>
 #include <unistd.h>
 
+
 size_t get_executable_path (char* buffer, size_t len)
 {
 	char* path_end;
