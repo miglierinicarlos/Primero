@@ -4,9 +4,8 @@ long factorial(int n);
 int main(int argc, char const *argv[])
 {
 	printf("%s\n Hola a todos");
-	printf("%s\n Mi segundo commit");
-	printf("%s\n 1234" );
-	printf("%s\n Ha");
+	printf("%s\n quite lineas de codigo" );
+	
 	return 0;
 }
 long factorial(int n){
