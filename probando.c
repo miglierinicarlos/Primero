@@ -5,6 +5,7 @@ int main(int argc, char const *argv[])
 {
 	printf("%s\n Hola a todos");
 	printf("%s\n quite lineas de codigo" );
+	printf("%s\n Haciendo un push");
 	
 	return 0;
 }
